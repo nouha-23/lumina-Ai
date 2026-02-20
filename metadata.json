@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI",
+  "description": "Professional undetectable meeting AI with real-time transcription and intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
